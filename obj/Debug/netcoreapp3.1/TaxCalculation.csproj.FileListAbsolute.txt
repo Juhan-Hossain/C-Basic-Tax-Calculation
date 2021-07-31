@@ -1,0 +1,13 @@
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.exe
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.deps.json
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.json
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.runtimeconfig.dev.json
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\bin\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csproj.AssemblyReference.cache
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfoInputs.cache
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.AssemblyInfo.cs
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.csproj.CoreCompileInputs.cache
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.dll
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.pdb
+C:\Users\BS161\Desktop\Programming work\TaxCalculation\obj\Debug\netcoreapp3.1\TaxCalculation.genruntimeconfig.cache
